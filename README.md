@@ -2,7 +2,13 @@
 ## JSON web token implementation (jwtAuth)
 
 ### To Get the Token send a post request: with userdetail in body
-
+##### End points are (post): 
+```
+ https://saifauth.herokuapp.com/api/login 
+ ````
+ ````
+ https://saifauth.herokuapp.com/api/post
+````
 <br/>
 <hr/>
 
